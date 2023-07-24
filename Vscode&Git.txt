@@ -1,0 +1,13 @@
+#一、Git的原理解释：
+1、上传：Working Directory--(git add files)--Stage(Index)--(git commit)--History--(git push)--Remote Directory
+2、下载：Remote Directory--(git pull)--History--(git reset)--Stage(Index)--(git checkout)--Working Directory
+3、主要命令：add\commit\push;pull\reset\checkout
+
+#二、Git与GitHub的关系：
+1、git：代码管理工具
+2、github：简单理解就是远端代码库，大型程序员开源代码平台
+3、git管理本地代码，上传至github管理，github远程管理代码，并作为分享平台共享优秀代码
+
+#三、Gti、VScode与Github操作：
+1、教学视频：https://www.youtube.com/watch?v=3Tn58KQvWtU
+2、教学网页：https://ithelp.ithome.com.tw/articles/10267030
