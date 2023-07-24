@@ -11,3 +11,4 @@
 #三、Gti、VScode与Github操作：
 1、教学视频：https://www.youtube.com/watch?v=3Tn58KQvWtU
 2、教学网页：https://ithelp.ithome.com.tw/articles/10267030
+3、其他注意：注意被墙！网络问题baidu大神！
