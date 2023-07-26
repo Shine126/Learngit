@@ -1,0 +1,1 @@
+#Generate a function that returns a UUID in python3 using ES6 syntax with comments
